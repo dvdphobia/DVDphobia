@@ -40,22 +40,6 @@ Languages currently in progress:
 
 ---
 
-## `> cat interests.json`
-
-```json
-{
-  "obsessed_with": "Programming",
-  "current_rabbit_holes": [
-    "memory management",
-    "algorithms",
-    "how computers actually work"
-  ],
-  "vibes": "write code → break it → fix it → repeat"
-}
-```
-
----
-
 ## `> git log --oneline`
 
 ```
@@ -65,12 +49,15 @@ The good stuff is coming.
 
 ---
 
-## `> contact`
+## `> stats`
 
-```
-📬  Find me somewhere in this repo  
-    Issues, discussions, or just vibing
-```
+<div align="center">
+
+![DVDphobia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DVDphobia&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com?user=DVDphobia&theme=dark&hide_border=true)
+
+</div>
 
 ---
 
@@ -80,6 +67,6 @@ The good stuff is coming.
 *Good programmers write code that humans can understand."*  
 — Martin Fowler
 
-![Visitor Badge](https://visitor-badge.lore.moe/badge?page_id=DVDphobia.DVDphobia)
+![](https://komarev.com/ghpvc/?username=DVDphobia&color=grey&style=flat-square&label=VISITORS)
 
 </div>
